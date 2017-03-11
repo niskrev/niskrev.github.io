@@ -16,7 +16,7 @@ Nikolay Iskrev is an economist at the Bank of Portugal
     <div class="row-fluid">
         <div class="span5">
             Nikolay Iskrev<br/>
-            Departamento de Estudos Económicos
+            Departamento de Estudos Económicos<br/>
             <a href="http://www.bportugal.pt">Banco de Portugal</a><br/>
             Rua Francisco Ribeiro, 2<br/>
             Lisboa 1150-165<br/>
