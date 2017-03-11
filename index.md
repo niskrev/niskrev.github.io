@@ -8,7 +8,7 @@ keywords: Iskrev, DSGE models, identification,
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/cv.pdf">cv</a></li>
           <li><a href="https://github.com/niskrev">github</a></li>
       </ul>
   </div>
