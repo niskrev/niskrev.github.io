@@ -23,9 +23,9 @@ Nikolay Iskrev is an economist at the Bank of Portugal
             Portugal<br/><br/>
 
             <div id="hide_email">
-            Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
-            </b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            Email: <code>nikolay</code><b>I</b><code>.iskrev</code><b>don't</b><code>@</code><b>want</b><code>bport</code><b>spam!
+            </b><code>ugal</code><b>So</b><code>.</code><b>please</b><code>p</code><b>leave
+            </b><code>t</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
             </div>
         </div>
 
