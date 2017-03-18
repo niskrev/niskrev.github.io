@@ -16,7 +16,7 @@ title: R/qtlcharts example
 interactive data visualizations for QTL data<br/>
 (see [Broman (2015) Genetics 199:359-361](http://www.ncbi.nlm.nih.gov/pubmed/25527287))
 
-[![R/qtlcharts example](../../assets/bigpublpics/iplotCorr.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
+[![R/qtlcharts example](../../assets/bigpublpics/CIGinnovSGU.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
 
 Static view of an [interactive graph](http://kbroman.org/qtlcharts/example/iplotCorr.html)
 from [R/qtlcharts](http://kbroman.org/qtlcharts). The left panel is a heatmap of a correlation

@@ -16,7 +16,7 @@ description: Nikolay Iskrev's papers
 
 ### <a name="techreports"></a>working papers
 
-**Iskrev N**, João Ritto (2017) Choosing the variables to estimate singular DSGE models: Comment
+**Iskrev N**, João Ritto Choosing the variables to estimate singular DSGE models: Comment
 [![pdf](icons16/pdf-icon.png)](../assets/papers/Canova_et_al_Comment.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/niskrev/Canova_et_al_Comment)
 
