@@ -28,14 +28,8 @@ Johns Hopkins University, Baltimore, MD
 [![pdf](icons16/pdf-icon.png)](../assets/papers/FIM.pdf)
 
 
-Wang RJ, Gray MM, Parmenter MD, **Broman KW**, Payseur
-BA (2017) Recombination rate variation in mice from an isolated
-island. [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-294X)
-26:457-470
-[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27864900)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/wang2017.pdf)
-<!-- * 146 * -->
-<!-- http://doi.org/10.1111/mec.13932 -->
+**Iskrev N** (2010) Local identification in DSGE models. [Journal of Monetary Economics](http://www.sciencedirect.com/science/journal/03043932), Vol 57 (2)
+[![pdf](icons16/pdf-icon.png)](../assets/papers/Local.pdf)
 
 
 ### <a name="thesis"></a>dissertation
