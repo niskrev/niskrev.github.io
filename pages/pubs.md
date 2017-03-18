@@ -8,7 +8,7 @@ description: Nikolay Iskrev's publications
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#articles">articles</a></li>
-            <li><a href="#techreports">tech reports</a></li>
+            <li><a href="#techreports">working papers</a></li>
             <li><a href="#thesis">dissertation</a></li>
         </ul>
     </div>
