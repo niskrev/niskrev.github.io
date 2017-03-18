@@ -25,6 +25,8 @@ Johns Hopkins University, Baltimore, MD
 ### <a name="articles"></a>journal articles
 
 **Iskrev N** (2008) Evaluating the Information matrix in linearized DSGE models. [Economic Letters](https://www.journals.elsevier.com/economics-letters), Vol 99 (3)
+[![pdf](icons16/pdf-icon.png)](assets/papers/FIM.pdf)
+
 
 Wang RJ, Gray MM, Parmenter MD, **Broman KW**, Payseur
 BA (2017) Recombination rate variation in mice from an isolated
