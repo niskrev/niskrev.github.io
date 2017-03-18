@@ -16,20 +16,22 @@ description: Nikolay Iskrev's papers
 
 ### <a name="techreports"></a>working papers
 
-<a name="hmm"></a>**Broman KW** (2006) Use of hidden Markov models
-for QTL mapping.  Working paper 125, Department of Biostatistics,
-Johns Hopkins University, Baltimore, MD
-[![Abstract](icons16/pubmed-icon.png)](http://www.bepress.com/jhubiostat/paper125)
-[![pdf (94k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/hmm.pdf)
+**Iskrev N**, João Ritto (2017) Choosing the variables to estimate singular DSGE models: Comment
+[![pdf](icons16/pdf-icon.png)](../assets/papers/Canova_et_al_Comment.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/Canova_et_al_Comment)
 
 ### <a name="articles"></a>journal articles
 
 **Iskrev N** (2008) Evaluating the Information matrix in linearized DSGE models. [Economic Letters](https://www.journals.elsevier.com/economics-letters), Vol 99 (3)
 [![pdf](icons16/pdf-icon.png)](../assets/papers/FIM.pdf)
 
-
 **Iskrev N** (2010) Local identification in DSGE models. [Journal of Monetary Economics](http://www.sciencedirect.com/science/journal/03043932), Vol 57 (2)
-[![pdf](icons16/pdf-icon.png)](../assets/papers/Local.pdf)
+[![pdf](icons16/pdf-icon.png)](../assets/papers/Local_identification.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/Local_identification)
+
+Sandra Gomes, **Nikolay Iskrev**, Caterina Mendicino (2017) Monetary policy shocks: We got news! [Journal of Economic Dynamics and Control](http://www.sciencedirect.com/science/journal/01651889), Vol 74 [![pdf](icons16/pdf-icon.png)](../assets/papers/News.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/News)
+
 
 
 ### <a name="thesis"></a>dissertation
