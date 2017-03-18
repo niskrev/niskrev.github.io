@@ -1,7 +1,7 @@
 ---
 layout: page
-title: publications
-description: Nikolay Iskrev's publications
+title: papers
+description: Nikolay Iskrev's papers
 ---
 
 <div class="navbar">
