@@ -20,6 +20,17 @@ description: Nikolay Iskrev's papers
 [![pdf](icons16/pdf-icon.png)](../assets/papers/Canova_et_al_Comment.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/niskrev/Canova_et_al_Comment)
 
+**Iskrev N** What’s News in Business Cycles? A comment
+[![pdf](icons16/pdf-icon.png)](../assets/papers/SGU-Comment.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/SGU-comment)
+
+
+**Iskrev N** On the distribution of information in the moment structure of DSGE models
+[![pdf](icons16/pdf-icon.png)](../assets/papers/Moment-Structure.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/Moment-Structure)
+
+
+
 ### <a name="articles"></a>journal articles
 
 **Iskrev N** (2008) Evaluating the Information matrix in linearized DSGE models. [Economic Letters](https://www.journals.elsevier.com/economics-letters), Vol 99 (3)
@@ -36,8 +47,7 @@ Sandra Gomes, **Nikolay Iskrev**, Caterina Mendicino (2017) Monetary policy shoc
 
 ### <a name="thesis"></a>dissertation
 
-**Iskrev N** (2007) Identifying quantitative trait loci in
-experimental crosses.  PhD dissertation, Department of Economics,
+**Iskrev N** (2007) Essays on identification and estimation of dynamic stochastic general equilibrium models.  PhD dissertation, Department of Economics,
 University of Michigan, Ann Arbor
-[![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/thesis_abstract.html)
-[![pdf (653k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/thesis.pdf)
+[![pdf](icons16/pdf-icon.png)](../assets/papers/Thesis.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/Thesis)
