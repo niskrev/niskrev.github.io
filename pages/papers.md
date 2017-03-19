@@ -17,8 +17,8 @@ description: Nikolay Iskrev's papers
 ### <a name="techreports"></a>working papers
 
 **Iskrev N**, João Ritto Choosing the variables to estimate singular DSGE models: Comment
-[![pdf](icons16/pdf-icon.png)](../assets/papers/Canova_et_al_Comment.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/Canova_et_al_Comment)
+[![pdf](icons16/pdf-icon.png)](https://github.com/niskrev/commentCFM/blob/master/CommentCFM.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/commentCFM)
 
 **Iskrev N** What’s News in Business Cycles? A comment
 [![pdf](icons16/pdf-icon.png)](../assets/papers/SGU-Comment.pdf)
