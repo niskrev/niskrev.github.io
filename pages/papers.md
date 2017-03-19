@@ -40,7 +40,7 @@ description: Nikolay Iskrev's papers
 [![pdf](icons16/pdf-icon.png)](../assets/papers/Local_identification.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/niskrev/Local_identification)
 
-Sandra Gomes, **Nikolay Iskrev**, Caterina Mendicino (2017) Monetary policy shocks: We got news! [Journal of Economic Dynamics and Control](http://www.sciencedirect.com/science/journal/01651889), Vol 74 [![pdf](icons16/pdf-icon.png)](../assets/papers/News.pdf)
+Gomes S, **Iskrev N**, Mendicino C (2017) Monetary policy shocks: We got news! [Journal of Economic Dynamics and Control](http://www.sciencedirect.com/science/journal/01651889), Vol 74 [![pdf](icons16/pdf-icon.png)](../assets/papers/News.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/niskrev/News)
 
 
