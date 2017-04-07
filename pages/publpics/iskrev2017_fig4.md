@@ -15,6 +15,6 @@ title: Iskrev (2017) Fig 2
 Iskrev N. Are asset price data informative about news shocks? A DSGE perspective.
 [![pdf](../icons16/pdf-icon.png)](../assets/papers/Asset-news.pdf)
 
-[![Efficiency gains](../../assets/bigpublpics/EGallAvdjiev.png)](../../assets/biggerpics/EEGallAvdjiev-BIG.png)
+[![Efficiency gains](../../assets/bigpublpics/EGallAvdjiev.png)](../../assets/bigpublpics/EEGallAvdjiev.png)
 
 **Figure 4**. &mdash; Efficiency gains in the model of Avdjiev (2016).
