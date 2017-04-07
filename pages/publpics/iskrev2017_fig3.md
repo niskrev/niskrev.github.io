@@ -15,6 +15,6 @@ title: Iskrev (2017) Fig 1
 Iskrev N. Are asset price data informative about news shocks? A DSGE perspective.
 [![pdf](../icons16/pdf-icon.png)](../assets/papers/Asset-news.pdf)
 
-[![Information gains](../../assets/bigpublpics/CIGinnovSGUmle.png)](../../assets/biggerpics/CIGinnovSGUmle-BIG.png)
+[![Information gains](../../assets/bigpublpics/CIGinnovAvjiev.png)](../../assets/biggerpics/CIGinnovAvjiev-BIG.png)
 
 **Figure 3**. &mdash; Conditional information gains in the model of Avdjiev (2016).
