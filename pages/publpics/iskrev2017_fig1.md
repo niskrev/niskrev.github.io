@@ -15,6 +15,6 @@ title: Iskrev (2017) Fig 1
 Iskrev N. Are asset price data informative about news shocks? A DSGE perspective.
 [![pdf](../icons16/pdf-icon.png)](../assets/papers/Asset-news.pdf)
 
-[![Efficiency gains](../../assets/bigpublpics/CIGinnovSGU.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
+[![Information gains](../../assets/bigpublpics/CIGinnovSGU.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
 
-**Figure 2**. &mdash; Efficiency gains at the MLE of SGU (2012).
+**Figure 1**. &mdash; Conditional information gains at the MLE of SGU (2012).

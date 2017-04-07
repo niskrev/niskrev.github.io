@@ -17,7 +17,7 @@ keywords: Iskrev, DSGE models, identification,
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/InfoGains.html">
+    <a href="pages/publpics/iskrev2017_fig1.html">
         <img src="assets/publpics/CIGinnovSGUmle-small.png" alt="CIGinnovSGU" title="Iskrev (2017) Fig 1"/>
     </a>
   </td>
