@@ -6,8 +6,8 @@ title: Iskrev (2017) Fig 2
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="InfoGains.html">prev</a></li>
-          <li><a href="samplemixups_fig7.html">next</a></li>
+          <li><a href="iskrev2017_fig2.html">prev</a></li>
+          <li><a href="iskrev2017_fig3.html">next</a></li>
       </ul>
   </div>
 </div>
