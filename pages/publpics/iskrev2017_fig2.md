@@ -15,11 +15,6 @@ title: Iskrev (2017) Fig 2
 Iskrev N. Are asset price data informative about news shocks? A DSGE perspective.
 [![pdf](../icons16/pdf-icon.png)](../assets/papers/Asset-news.pdf)
 
-![Tian et al. (2016) Fig 4](../../assets/bigpublpics/EGallSGUmle.png)
+[![Efficiency gains](../../assets/bigpublpics/EGallSGUmle.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
 
-**Figure 4**. &mdash; Scatterplots of the first two linear
-discriminants for the trans-eQTL hotspot on chromosome 10, here
-considering three tissues: adipose, kidney, and liver. Points
-correspond to mice, and they are colored according to their two-locus
-genotypes, for the inferred two QTL model, with one locus at 48 cM and
-the other at 54 cM.
+**Figure 2**. &mdash; Efficiency gains at the MLE of SGU (2012).
