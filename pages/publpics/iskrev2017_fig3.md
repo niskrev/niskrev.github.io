@@ -17,4 +17,4 @@ Iskrev N. Are asset price data informative about news shocks? A DSGE perspective
 
 [![Information gains](../../assets/bigpublpics/CIGinnovSGUmle.png)](../../assets/biggerpics/CIGinnovSGUmle-BIG.png)
 
-**Figure 1**. &mdash; Conditional information gains at the MLE of SGU (2012).
+**Figure 3**. &mdash; Conditional information gains in the model of Avdjiev (2016).
