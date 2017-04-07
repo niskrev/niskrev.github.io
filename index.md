@@ -18,13 +18,12 @@ keywords: Iskrev, DSGE models, identification,
 <tr>
   <td class="left">
     <a href="pages/publpics/InfoGains.html">
-        <img src="assets/publpics/CIGinnovSGUmle-small.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="assets/publpics/CIGinnovSGUmle-small.png" alt="CIGinnovSGU" title="Iskrev (2017) Fig 1"/>
     </a>
   </td>
   <td class="right">
     <a href="pages/publpics/iskrev2017_fig2.html">
-        <img src="assets/publpics/EGallSGUmle-small.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+        <img src="assets/publpics/EGallSGUmle-small.png" alt="EGSGU" title="Iskrev (2017) Fig 2"/>
     </a>
   </td>
 </tr>
