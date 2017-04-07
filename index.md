@@ -29,13 +29,13 @@ keywords: Iskrev, DSGE models, identification,
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    <a href="pages/publpics/iskrev2017_fig3.html">
+        <img src="assets/publpics/CIGinnovAvjiev-small.png" alt="CIGinnovAvjiev" title="Iskrev (2017) Fig 3"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    <a href="pages/publpics/iskrev2017_fig4.html">
+        <img src="assets/publpics/EGallAvjiev-small.png.png" alt="EGAvjiev" title="Iskrev (2017) Fig 4"/>
     </a>
   </td>
 </tr>
