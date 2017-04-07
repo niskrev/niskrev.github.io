@@ -35,7 +35,7 @@ keywords: Iskrev, DSGE models, identification,
   </td>
   <td class="right">
     <a href="pages/publpics/iskrev2017_fig4.html">
-        <img src="assets/publpics/EGallAvjiev-small.png.png" alt="EGAvjiev" title="Iskrev (2017) Fig 4"/>
+        <img src="assets/publpics/EGallAvjiev-small.png" alt="EGAvjiev" title="Iskrev (2017) Fig 4"/>
     </a>
   </td>
 </tr>
