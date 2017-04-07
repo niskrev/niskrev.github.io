@@ -4,7 +4,7 @@ title: tutorials
 description: Nikolay Iskrev's TILs
 ---
 
-- [find files modified in last n minutes](niskrev.github.io/pages/blog/_posts/2016-10-15-find-files-modified-in-last-n-minutes.markdown)
+- [find files modified in last n minutes](./blog/_posts/2016-10-15-find-files-modified-in-last-n-minutes.markdown)
 - [organizing data in spreadsheets](http://kbroman.org/dataorg)
 - [git/github guide](http://kbroman.org/github_tutorial)
 - [minimal make](http://kbroman.org/minimal_make)
