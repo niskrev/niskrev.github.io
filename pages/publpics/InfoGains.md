@@ -12,7 +12,9 @@ title: Information gains example
   </div>
 </div>
 
+Iskrev N. Are asset price data informative about news shocks? A DSGE perspective.
+[![pdf](../icons16/pdf-icon.png)](../assets/papers/Asset-news.pdf)
 
-[![R/qtlcharts example](../../assets/bigpublpics/CIGinnovSGU.png)](http://niskrev.github.io/pages/InfoGains.html)
+[![Information gains](../../assets/bigpublpics/CIGinnovSGU.png)](http://niskrev.github.io/pages/InfoGains.html)
 
 **Figure 1**. &mdash; Conditional information gains at the MLE of SGU (2012).
