@@ -14,6 +14,6 @@ title: FoT model Fig 1
 
 
 
-[![Information gains](../../assets/bigpublpics/FoT-Innovations-BIG.png)](../../assets/biggerpics/FoT-Innovations.png)
+[![Information gains](../../assets/bigpublpics/FoT-Innovations.png)](../../assets/biggerpics/FoT-Innovations-BIG.png)
 
 **Figure**. &mdash; Information gains in the model of *Sources of business fluctuations: Financial or technology shocks?* by Kaihatsu S. and Kurozumi T.
