@@ -7,7 +7,7 @@ title: Iskrev (2017) Fig 2
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="iskrev2017_fig3.html">prev</a></li>
-          <li><a href="iskrev2017_fig1.html">next</a></li>
+          <li><a href="FoT-model-fig1.html">next</a></li>
       </ul>
   </div>
 </div>
