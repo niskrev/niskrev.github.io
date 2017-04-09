@@ -20,8 +20,8 @@ title: Nikolay Iskrev
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/rqtlexper_fig2.html">
-        <img src="assets/publpics/rqtlexper_fig2.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/>
+    <a href="pages/publpics/FoT-model-fig1.html">
+        <img src="assets/publpics/FoT-Innovations-small.png" alt="KK (2014) Fig 1" title="KK (2014) Fig 1"/>
     </a>
   </td>
 </tr>
