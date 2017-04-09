@@ -13,8 +13,7 @@ title: FoT model Fig 1
 </div>
 
 
-Conditional information gains in Kaihatsu and Kurozumi (2014). An application of the methodology of **Iskrev N.** *Are asset price data informative about news shocks? A DSGE perspective*
-[![pdf](../icons16/pdf-icon.png)](../assets/papers/Asset-news.pdf)
+Kaihatsu and Kurozumi (2014). *Sources of business fluctuations: Financial or technology shocks?*
 
 [![Information gains](../../assets/bigpublpics/FoT-Innovations.png)](../../assets/biggerpics/FoT-Innovations-BIG.png)
 

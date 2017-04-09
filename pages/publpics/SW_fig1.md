@@ -12,8 +12,7 @@ title: SW (2007) Fig 1
   </div>
 </div>
 
-Conditional information gains in Smets and Wouters (2007). An application of the methodology of **Iskrev N.** *Are asset price data informative about news shocks? A DSGE perspective*
-[![pdf](../icons16/pdf-icon.png)](../assets/papers/Asset-news.pdf)
+Smets and Wouters (2007) *Shocks and frictions in US business cycles: A Bayesian DSGE approach*
 
 [![Information gains](../../assets/bigpublpics/SW-Innovations.png)](../../assets/biggerpics/SW-Innovations-BIG.png)
 
