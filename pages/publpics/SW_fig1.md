@@ -7,7 +7,7 @@ title: SW (2007) Fig 1
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="iskrev2017_fig4.html">prev</a></li>
-          <li><a href="iskrev2017_fig1.html">next</a></li>
+          <li><a href="FoT-model-fig1.html">next</a></li>
       </ul>
   </div>
 </div>
