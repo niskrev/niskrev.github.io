@@ -15,7 +15,8 @@ description: Nikolay Iskrev's papers
 </div>
 
 ### <a name="techreports"></a>working papers
-
+**Iskrev N** Are asset price data informative about news shocks? A DSGE perspective.[![pdf](icons16/pdf-icon.png)](../assets/papers/Asset-news.pdf)
+[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/Asset-news)
 **Iskrev N**, João Ritto Choosing the variables to estimate singular DSGE models: Comment
 [![pdf](icons16/pdf-icon.png)](https://github.com/niskrev/commentCFM/blob/master/CommentCFM.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/niskrev/commentCFM)
