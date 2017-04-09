@@ -14,6 +14,6 @@ title: JPT (2013) Fig 1
 
 Justiniano, Primiceri, and Tambalotti (2013) *Is there a Trade-Off between Inflation and Output Stabilization?*
 
-[![Information gains](../../assets/bigpublpics/JPt-Innovations.png)](../../assets/biggerpics/JPT-Innovations-BIG.png)
+[![Information gains](../../assets/bigpublpics/JPT-Innovations.png)](../../assets/biggerpics/JPT-Innovations-BIG.png)
 
 **Figure 1**. &mdash; Conditional information gains in JPT (2013).
