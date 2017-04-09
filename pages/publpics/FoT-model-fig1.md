@@ -7,7 +7,7 @@ title: FoT model Fig 1
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="SW_fig1.html">prev</a></li>
-          <li><a href="iskrev2017_fig1.html">next</a></li>
+          <li><a href="JPT_fig1.html">next</a></li>
       </ul>
   </div>
 </div>
