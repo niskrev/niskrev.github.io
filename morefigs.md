@@ -25,6 +25,18 @@ title: Nikolay Iskrev
     </a>
   </td>
 </tr>
+<tr>
+  <td class="left">
+    <a href="pages/publpics/JPT_fig1.html">
+        <img src="assets/publpics/JPT-Innovations-small.png" alt="JPT (2013) Fig 1" title="JPT (2013) Fig 1"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="pages/publpics/FoT-model-fig1.html">
+        <img src="assets/publpics/FoT-Innovations-small.png" alt="KK (2014) Fig 1" title="KK (2014) Fig 1"/>
+    </a>
+  </td>
+</tr>
 </table>
 
 <div class="navbar">
