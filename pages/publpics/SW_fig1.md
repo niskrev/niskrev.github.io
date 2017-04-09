@@ -12,9 +12,9 @@ title: SW (2007) Fig 1
   </div>
 </div>
 
-Iskrev N. Are asset price data informative about news shocks? A DSGE perspective.
+Conditional information gains in Smets and Wouters (2007). An application of the methodology of **Iskrev N.** *Are asset price data informative about news shocks? A DSGE perspective*
 [![pdf](../icons16/pdf-icon.png)](../assets/papers/Asset-news.pdf)
 
 [![Information gains](../../assets/bigpublpics/SW-Innovations.png)](../../assets/biggerpics/SW-Innovations-BIG.png)
 
-**Figure**. &mdash; Conditional information gains in SW (2007).
+**Figure 1**. &mdash; Conditional information gains in SW (2007).
