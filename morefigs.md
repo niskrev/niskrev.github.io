@@ -16,7 +16,7 @@ title: Nikolay Iskrev
 <tr>
   <td class="left">
     <a href="pages/publpics/SW_fig1.html">
-        <img src="assets/publpics/SW-Innovations.png" alt="SW (2007) Fig 1" title="SW (2007) Fig 1"/>
+        <img src="assets/publpics/SW-Innovations-small.png" alt="SW (2007) Fig 1" title="SW (2007) Fig 1"/>
     </a>
   </td>
   <td class="right">
