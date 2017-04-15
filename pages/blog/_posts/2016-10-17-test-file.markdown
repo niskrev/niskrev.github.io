@@ -8,5 +8,5 @@ tags: [unix,blog]
 TIL how to make this with github-pages
 
 ```
-python3 file_name.py
+python file_name.py
 ```
