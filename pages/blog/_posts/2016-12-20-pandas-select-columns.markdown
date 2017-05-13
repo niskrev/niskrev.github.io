@@ -8,7 +8,7 @@ Select columns in a DataFrame that start with "abc"
 
 + option 1: using regex
 ```
-df.filter(regex='abc')
+df.filter(regex='^abc')
 ```
 + option 2: using select
 ```
