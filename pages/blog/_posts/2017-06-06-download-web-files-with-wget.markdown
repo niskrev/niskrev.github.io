@@ -28,3 +28,9 @@ To download only if the web file is with different time stamp than previously do
 ```
 wget -N http://www.site-name.com/file-name
 ```
+
+To download all files of a given type _ftype_
+
+```
+wget -r -nd -A ftype --accept-regex ".*\.ftype" http://www.site-name.com/
+```
