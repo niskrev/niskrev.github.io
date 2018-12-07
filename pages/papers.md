@@ -27,9 +27,9 @@ description: Nikolay Iskrev's papers
 [![GitHub](icons16/github-icon.png)](https://github.com/niskrev/SGU-comment)
 
 
-**Iskrev N** On the distribution of information in the moment structure of DSGE models
-[![pdf](icons16/pdf-icon.png)](../assets/papers/Moment-Structure.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/Moment-Structure)
+#**Iskrev N** On the distribution of information in the moment structure of DSGE models
+#[![pdf](icons16/pdf-icon.png)](../assets/papers/Moment-Structure.pdf)
+#[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/Moment-Structure)
 
 
 
