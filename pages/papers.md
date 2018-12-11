@@ -15,8 +15,7 @@ description: Nikolay Iskrev's papers
 </div>
 
 ### <a name="techreports"></a>working papers
-**Iskrev N** Are asset price data informative about news shocks? A DSGE perspective.[![pdf](icons16/pdf-icon.png)](../assets/papers/Asset-news.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/Asset-news)
+**Iskrev N** Are asset price data informative about news shocks? A DSGE perspective.[![pdf](icons16/pdf-icon.png)](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2161.en.pdf?ac50bbe68a8a315ec81869135857be20)
 
 **Iskrev N**, João Ritto Choosing the variables to estimate singular DSGE models: Comment
 [![pdf](icons16/pdf-icon.png)](https://github.com/niskrev/commentCFM/blob/master/CommentCFM.pdf)
@@ -24,7 +23,6 @@ description: Nikolay Iskrev's papers
 
 **Iskrev N** What’s News in Business Cycles? A comment
 [![pdf](icons16/pdf-icon.png)](../assets/papers/SGU-Comment.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/SGU-comment)
 
 
 [//]: #**Iskrev N** On the distribution of information in the moment structure of DSGE models
@@ -39,7 +37,7 @@ description: Nikolay Iskrev's papers
 
 **Iskrev N** (2010) Local identification in DSGE models. [Journal of Monetary Economics](http://www.sciencedirect.com/science/journal/03043932), Vol 57 (2)
 
-Gomes S, **Iskrev N**, Mendicino C (2017) Monetary policy shocks: We got news! [Journal of Economic Dynamics and Control](http://www.sciencedirect.com/science/journal/01651889), Vol 74 [![pdf](icons16/pdf-icon.png)]
+Gomes S, **Iskrev N**, Mendicino C (2017) Monetary policy shocks: We got news! [Journal of Economic Dynamics and Control](https://www.sciencedirect.com/science/article/pii/S0165188916301749), Vol 74
 
 Gelain P, **Iskrev N**, Lansing K, Mendicino C (2019) Inflation Dynamics and Adaptive Expectations in an Estimated DSGE Model [Journal of Macroeconomics](https://www.sciencedirect.com/journal/journal-of-macroeconomics), forthcoming [![pdf](icons16/pdf-icon.png)](../assets/papers/Adaptive.pdf)
 
