@@ -39,7 +39,7 @@ description: Nikolay Iskrev's papers
 
 Gomes S, **Iskrev N**, Mendicino C (2017) Monetary policy shocks: We got news! [Journal of Economic Dynamics and Control](https://www.sciencedirect.com/science/article/pii/S0165188916301749), Vol 74
 
-Gelain P, **Iskrev N**, Lansing K, Mendicino C (2019) Inflation Dynamics and Adaptive Expectations in an Estimated DSGE Model [Journal of Macroeconomics](https://doi.org/10.1016/j.jmacro.2018.12.002), forthcoming [![pdf](icons16/pdf-icon.png)](../assets/papers/Adaptive.pdf)
+Gelain P, **Iskrev N**, Lansing K, Mendicino C (2019) Inflation Dynamics and Adaptive Expectations in an Estimated DSGE Model [Journal of Macroeconomics](https://doi.org/10.1016/j.jmacro.2018.12.002), forthcoming
 
 **Iskrev N** (2019) What to expect when you're calibrating: measuring the effect of calibration on the estimation of macroeconomic models [Journal of Economic Dynamic and Control](https://doi.org/10.1016/j.jedc.2018.12.002), forthcoming 
 
