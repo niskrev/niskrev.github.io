@@ -27,27 +27,23 @@ description: Nikolay Iskrev's papers
 [![GitHub](icons16/github-icon.png)](https://github.com/niskrev/SGU-comment)
 
 
-#**Iskrev N** On the distribution of information in the moment structure of DSGE models
-#[![pdf](icons16/pdf-icon.png)](../assets/papers/Moment-Structure.pdf)
-#[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/Moment-Structure)
+[//]: #**Iskrev N** On the distribution of information in the moment structure of DSGE models
+[//]: #[![pdf](icons16/pdf-icon.png)](../assets/papers/Moment-Structure.pdf)
+[//]: #[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/Moment-Structure)
 
 
 
 ### <a name="articles"></a>journal articles
 
 **Iskrev N** (2008) Evaluating the Information matrix in linearized DSGE models. [Economic Letters](https://www.journals.elsevier.com/economics-letters), Vol 99 (3)
-[![pdf](icons16/pdf-icon.png)](../assets/papers/FIM.pdf)
 
 **Iskrev N** (2010) Local identification in DSGE models. [Journal of Monetary Economics](http://www.sciencedirect.com/science/journal/03043932), Vol 57 (2)
-[![pdf](icons16/pdf-icon.png)](../assets/papers/Local_identification.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/Local_identification)
 
-Gomes S, **Iskrev N**, Mendicino C (2017) Monetary policy shocks: We got news! [Journal of Economic Dynamics and Control](http://www.sciencedirect.com/science/journal/01651889), Vol 74 [![pdf](icons16/pdf-icon.png)](../assets/papers/News.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/niskrev/News)
+Gomes S, **Iskrev N**, Mendicino C (2017) Monetary policy shocks: We got news! [Journal of Economic Dynamics and Control](http://www.sciencedirect.com/science/journal/01651889), Vol 74 [![pdf](icons16/pdf-icon.png)]
 
 Gelain P, **Iskrev N**, Lansing K, Mendicino C (2019) Inflation Dynamics and Adaptive Expectations in an Estimated DSGE Model [Journal of Macroeconomics](https://www.sciencedirect.com/journal/journal-of-macroeconomics), forthcoming [![pdf](icons16/pdf-icon.png)](../assets/papers/Adaptive.pdf)
 
-**Iskrev N** (2019) What to expect when you're calibrating: measuring the effect of calibration on the estimation of macroeconomic models [Journal of Economic Dynamic and Control](https://www.sciencedirect.com/journal/journal-of-economic-dynamics-and-control), forthcoming [![pdf](icons16/pdf-icon.png)](../assets/papers/Calibration.pdf)
+**Iskrev N** (2019) What to expect when you're calibrating: measuring the effect of calibration on the estimation of macroeconomic models [Journal of Economic Dynamic and Control](https://doi.org/10.1016/j.jedc.2018.12.002), forthcoming 
 
 ### <a name="thesis"></a>dissertation
 
