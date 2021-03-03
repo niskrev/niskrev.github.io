@@ -29,7 +29,7 @@ description: Nikolay Iskrev's papers
 
 ### <a name="articles"></a>journal articles
 
-**Iskrev N** (2021) On the Sources of Information in the Moment Structure of Dynamic Macroeconomic Models [Journal of Business & Economic Statistics](10.1080/07350015.2020.1803079), forthcoming
+**Iskrev N** (2021) On the Sources of Information in the Moment Structure of Dynamic Macroeconomic Models [Journal of Business & Economic Statistics](https://doi.org/10.1080/07350015.2020.1803079), forthcoming
 
 **Iskrev N** (2019) On the sources of information about latent variables in DSGE models [European Economic Review](https://doi.org/10.1016/j.euroecorev.2019.07.012), Vol 119, 
 
