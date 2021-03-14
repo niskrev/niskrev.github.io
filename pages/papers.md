@@ -24,7 +24,7 @@ description: Nikolay Iskrev's papers
 
 **Iskrev N** What’s News in Business Cycles? A comment
 [![pdf](icons16/pdf-icon.png)](../assets/papers/SGU-Comment.pdf)
-[![website](icons16/html-icon.png)](https://niskrev.github.io/missing/)
+[![website](icons16/html-icon.png)](https://niskrev.github.io/missing_page/)
 
 
 ### <a name="articles"></a>journal articles
