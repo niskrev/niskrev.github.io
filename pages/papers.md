@@ -15,6 +15,10 @@ description: Nikolay Iskrev's papers
 </div>
 
 ### <a name="techreports"></a>working papers
+**Iskrev N** Spectral decomposition of the information about latent variables in dynamic macroeconomic models[![pdf](icons16/pdf-icon.png)](https://www.bportugal.pt/sites/default/files/anexos/papers/wp202105.pdf)
+[![website](icons16/html-icon.png)](https://niskrev.github.io/siga_docs)
+
+
 
 **Iskrev N** Are asset price data informative about news shocks? A DSGE perspective.[![pdf](icons16/pdf-icon.png)](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2161.en.pdf?ac50bbe68a8a315ec81869135857be20)
 
@@ -24,7 +28,6 @@ description: Nikolay Iskrev's papers
 
 **Iskrev N** What’s News in Business Cycles? A comment
 [![pdf](icons16/pdf-icon.png)](../assets/papers/SGU-Comment.pdf)
-[![website](icons16/html-icon.png)](https://niskrev.github.io/missing/)
 
 
 ### <a name="articles"></a>journal articles
