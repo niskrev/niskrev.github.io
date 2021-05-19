@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <script>
+	// Hack for scrolling window when linking to anchor tag with fixed nav header
+        var shiftWindow = function() { scrollBy(0, -75) };
+        window.addEventListener("hashchange", shiftWindow);
+        function load() { if (window.location.hash) shiftWindow(); }
+      </script>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="https://niskrev.github.io/index.html">
+        <link rel="shortcut icon" href="./img/favicon.ico">
+        <title>Overview - Spectral decomposition</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/http.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="js/base.js"></script> 
+    </head>
+
+    <body class="">
+
+      <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+	<div class="container">
+	<a class="navbar-brand" href=".">Spectral decomposition</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div class="collapse navbar-collapse">
+          <!-- Main navigation -->
+          <nav class="nav">
+            <ul class="navbar-nav">
+              <li class="active">
+                <a class="nav-link" href="index.html">Overview</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Uribe (2021) model">Uribe (2021) model <b class="caret"></b></a>
+                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Uribe (2021) model">
+                  
+<a href="results/uribe/uribe.html" class="dropdown-item">Overview</a>
+                  
+<a href="results/uribe/ID.html" class="dropdown-item">Information decompositions</a>
+                  
+<a href="results/uribe/IC.html" class="dropdown-item">Information complementarity</a>
+                  
+<a href="results/uribe/VD.html" class="dropdown-item">Variance decomositions</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-JPT (2011) model">JPT (2011) model <b class="caret"></b></a>
+                <div class="dropdown-menu" aria-labelledby="nav-dropdown-JPT (2011) model">
+                  
+<a href="results/jpt/jpt.html" class="dropdown-item">Overview</a>
+                  
+<a href="results/jpt/ID.html" class="dropdown-item">Information decompositions</a>
+                  
+<a href="results/jpt/IC.html" class="dropdown-item">Information complementarity</a>
+                  
+<a href="results/jpt/VD.html" class="dropdown-item">Variance decomositions</a>
+                </div>
+              </li>
+            </ul>
+          </nav>
+
+          <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
+            <li class="nav-item">
+              <a class="nav-link" href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+		<i class="fa fa-search"></i> Search
+              </a>
+            </li>
+          </ul>
+	</div>
+	</div>
+      </nav><div id="content" class="container">
+        
+      <div class="row">
+        <div class="col-md-9" role="main">
+
+
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    
+    <li class="breadcrumb-item active" aria-current="page">Overview</li>
+  </ol>
+</nav>
+
+
+<h3 id="spectral-decomposition-of-the-information-about-latent-variables-in-dynamic-macroeconomic-models">Spectral decomposition of the information about latent variables in dynamic macroeconomic models</h3>
+<p><br/><br/></p>
+<h4 id="abstract">Abstract</h4>
+<p>In this paper, I show how to perform spectral decomposition of the information about latent variables in dynamic economic models. A model describes the joint probability distribution of a set of observed and latent variables. The amount of information transferred from the former to the latter is measured by the reduction of uncertainty in the posterior compared to the prior distribution of any given latent variable. Casting the analysis in the frequency domain allows decomposing the total amount of information in terms of frequency-specific contributions as well as in terms of information contributed by individual observed variables. I illustrate the usefulness of the proposed methodology with applications to two DSGE models taken from the literature.
+<br/>
+<br/></p>
+<h4 id="information-gain-measures">Information gain measures</h4>
+<p><br/></p>
+<ul>
+<li>the <strong>information gain</strong> at frequency <span class="arithmatex">\(\omega\)</span> measures the reduction of uncertainty about <span class="arithmatex">\(x\)</span> at a given frequency <span class="arithmatex">\(\omega\)</span> due to information from <span class="arithmatex">\(\mathbf{y}\)</span> at that frequency.</li>
+</ul>
+<div class="arithmatex">\[
+\mathrm{IG}_{\mathbf{y} \rightarrow x} (\omega)  =  \left( \frac{f_{x x}(\omega) -  f_{x \lvert \mathbf{y}}(\omega) }{f_{xx}(\omega)} \right) \times 100
+\]</div>
+<p>where <span class="arithmatex">\(f_{x \lvert \mathbf{y}}(\omega) = f_{x x}(\omega) - f_{x \mathbf{y}}(\omega) f_{\mathbf{y}\mathbf{y}}^{-1}(\omega) f_{\mathbf{y} x}(\omega)\)</span> is the partial spectrum of <span class="arithmatex">\(x\)</span> given <span class="arithmatex">\(\mathbf{y}\)</span>
+<br/></p>
+<ul>
+<li>the <strong>conditional information gain</strong> at frequency <span class="arithmatex">\(\omega\)</span> measures the additional reduction of uncertainty about <span class="arithmatex">\(x\)</span> at a given frequency <span class="arithmatex">\(\omega\)</span> due to information from <span class="arithmatex">\(\mathbf{y_1}\)</span> which is not in <span class="arithmatex">\(\mathbf{y_2}\)</span></li>
+</ul>
+<div class="arithmatex">\[
+\mathrm{IG}_{\mathbf{y}_{{}_1} \rightarrow x \lvert \mathbf{y}_{{}_2}} (\omega)  =  \left( \frac{f_{x  \vert \mathbf{y}_{{}_2}}(\omega) -  f_{x \lvert \mathbf{y}}(\omega) }{f_{xx}(\omega)} \right) \times 100
+\]</div>
+<p><br/></p>
+<p>Similarly, the <strong>integrated</strong> unconditional and conditional information gain measures over a band of frequencies <span class="arithmatex">\(\mathbf{\omega} = \{\omega: \omega \in [\underline{\omega},\overline{\omega}] \cup [-\overline{\omega}, -\underline{\omega}] \}\)</span> are given by</p>
+<div class="arithmatex">\[
+\mathrm{IG}_{\mathbf{y} \rightarrow x} (\mathbf{\omega})  =  \left( \frac{f_{x x}(\mathbf{\omega}) -  f_{x \lvert \mathbf{y}}(\mathbf{\omega}) }{f_{xx}(\mathbf{\omega})} \right) \times 100 
+\]</div>
+<div class="arithmatex">\[
+\mathrm{IG}_{\mathbf{y}_{{}_1} \rightarrow x \lvert \mathbf{y}_{{}_2}} (\mathbf{\omega})  =  \left( \frac{f_{x  \vert \mathbf{y}_{{}_2}}(\mathbf{\omega}) -  f_{x \lvert \mathbf{y}}(\mathbf{\omega}) }{f_{xx}(\mathbf{\omega})} \right) \times 100 
+\]</div>
+<p>where <span class="arithmatex">\(\displaystyle{f_{xx}(\mathbf{\omega})  =  \int_{\omega \in \mathbf{\omega}}f_{xx}(\omega) \mathrm{d} \omega}\)</span>, and <span class="arithmatex">\(\displaystyle{f_{x \lvert \mathbf{y}}(\mathbf{\omega})  =  \int_{\omega \in \mathbf{\omega}} f_{x \lvert \mathbf{y}}(\omega) \mathrm{d} \omega}\)</span>.
+<br/>
+<br/></p>
+<h4 id="information-complementarity-measures">Information complementarity measures</h4>
+<p><br/></p>
+<ul>
+<li>the <strong>information complementarity</strong> between variables <span class="arithmatex">\(y_1\)</span> and <span class="arithmatex">\(y_2\)</span> conditional on variables <span class="arithmatex">\(\mathbf{y}_{3} \subset \{ \mathbf{y} \setminus \mathbf{y}_{12} \}\)</span> at frequency band <span class="arithmatex">\(\mathbf{\omega}\)</span> is defined as:</li>
+</ul>
+<div class="arithmatex">\[
+\mathrm{IC}_{\mathbf{y}_{{}_{12}}\rightarrow x \lvert \mathbf{y}_{{}_3}}(\mathbf{\omega}) = \frac{\mathrm{IG}_{\mathbf{y}_{{}_{12}} \rightarrow x \lvert \mathbf{y}_{{}_3}}(\mathbf{\omega})}{\mathrm{IG}_{y_{{}_1} \rightarrow x \lvert \mathbf{y}_{{}_3}}(\mathbf{\omega}) + \mathrm{IG}_{y_{{}_2} \rightarrow x \lvert \mathbf{y}_{{}_3}}(\mathbf{\omega})} - 1.
+\]</div>
+<p>Negative values indicate negative complementarity, or information redundancy, between <span class="arithmatex">\(y_1\)</span> and <span class="arithmatex">\(y_2\)</span>, and positive values indicate positive complementarity between the two variables. Since the information gain is non-negative, we have <span class="arithmatex">\(\mathrm{IC}_{\mathbf{y}_{{}_{12}}\rightarrow x \lvert \mathbf{y}_{{}_3}}(\mathbf{\omega}) \geq -1/2\)</span>, with equality when <span class="arithmatex">\(y_1\)</span> and <span class="arithmatex">\(y_2\)</span> are (conditionally on <span class="arithmatex">\(\mathbf{y}_3\)</span>) functionally dependent, in which case <span class="arithmatex">\(\mathrm{IG}_{\mathbf{y}_{{}_{12}} \rightarrow x \lvert \mathbf{y}_{{}_3}}(\mathbf{\omega}) = \mathrm{IG}_{y_{{}_1} \rightarrow x \lvert \mathbf{y}_{{}_3}}(\mathbf{\omega}) = \mathrm{IG}_{y_{{}_2} \rightarrow x \lvert \mathbf{y}_{{}_3}}(\mathbf{\omega})\)</span>. A lack of information complementarity, i.e. <span class="arithmatex">\(\mathrm{IC}_{\mathbf{y}_{{}_{12}}\rightarrow x \lvert \mathbf{y}_{{}_3}}(\mathbf{\omega})=0\)</span> occurs when <span class="arithmatex">\(y_1\)</span> and <span class="arithmatex">\(y_2\)</span> are (conditionally on <span class="arithmatex">\(\mathbf{y}_3\)</span>) independent, and hence <span class="arithmatex">\(\mathrm{IG}_{\mathbf{y}_{{}_{12}} \rightarrow x \lvert \mathbf{y}_{{}_3}}(\mathbf{\omega}) = \mathrm{IG}_{y_{{}_1} \rightarrow x \lvert \mathbf{y}_{{}_3}}(\mathbf{\omega}) + \mathrm{IG}_{y_{{}_2} \rightarrow x \lvert \mathbf{y}_{{}_3}}(\mathbf{\omega})\)</span>. Note that the conditioning could be with respect to any subset of observables, including the empty set, in which case we have unconditional complementarity between <span class="arithmatex">\(y_1\)</span> and <span class="arithmatex">\(y_2\)</span>.</p>
+
+<ul class="metadata page-metadata" data-bi-name="page info" lang="en-us" dir="ltr">
+  <li class="last-updated-holder displayDate loading">
+    <span class="last-updated-text">Last updated:</span>
+    <time role="presentation" datetime="2018-10-25T00:00:00.000Z" data-article-date-source="ms.date"></time>
+  </li>
+<!--
+  <li class="readingTime">
+    2 minutes to read
+  </li>
+-->
+  <li class="contributors-holder">
+    <span class="contributors-text">Contributors</span>
+    <ul class="contributors" data-bi-name="contributors"></ul>
+  </li>
+</ul>
+</div>
+        <div class="col-md-3"><div class="navbar-light navbar-expand-md hidden-print sticky-top sticky-offset" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    <div id="toc-collapse" class="navbar-collapse collapse card">
+        <ul class="nav flex-column bs-sidenav">
+            <li class="nav-item main"><a class="nav-link" href="#spectral-decomposition-of-the-information-about-latent-variables-in-dynamic-macroeconomic-models">Spectral decomposition of the information about latent variables in dynamic macroeconomic models</a></li>
+                <li class="nav-item">
+                    <a href="#abstract" class="nav-link">Abstract</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#information-gain-measures" class="nav-link">Information gain measures</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#information-complementarity-measures" class="nav-link">Information complementarity measures</a>
+                </li>
+        </ul>
+    </div>
+</div></div>
+      </div>
+      </div>
+
+      <footer class="col-md-12">
+	<hr>
+	<div class="container">
+	</div>
+      </footer>
+      <script>
+	var base_url = ".",
+            shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+      </script>
+      <script src="js/base.js" defer></script>
+      <script src="javascripts/config.js" defer></script>
+      <script src="https://polyfill.io/v3/polyfill.min.js?features=es6" defer></script>
+      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" defer></script>
+      <script src="search/main.js" defer></script>
+
+      <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <p class="h4 modal-title">Keyboard Shortcuts</p>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
