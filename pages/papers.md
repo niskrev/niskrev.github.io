@@ -24,6 +24,10 @@ description: Nikolay Iskrev's papers
 
 **Iskrev N** Are asset price data informative about news shocks? A DSGE perspective.[![pdf](icons16/pdf-icon.png)](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2161.en.pdf?ac50bbe68a8a315ec81869135857be20)
 
+**Iskrev N** Evaluating the strength of identification in DSGE models. An a priori approach.[![pdf](icons16/pdf-icon.png)](https://www.bportugal.pt/sites/default/files/anexos/papers/wp201032.pdf)
+
+
+
 **Iskrev N**, João Ritto Choosing the variables to estimate singular DSGE models: Comment
 [![pdf](icons16/pdf-icon.png)](https://github.com/niskrev/commentCFM/blob/master/CommentCFM.pdf)
 [![GitHub](icons16/github-icon.png)](https://github.com/niskrev/commentCFM)
