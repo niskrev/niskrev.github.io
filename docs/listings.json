@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/teaching/index.html",
+    "items": []
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/articles/iskrev-2021/index.html",
+      "/research/articles/iskrev-2019/index.html",
+      "/research/articles/iskrev-2019b/index.html",
+      "/research/articles/iskrev-2019a/index.html",
+      "/research/articles/iskrev-2017/index.html",
+      "/research/articles/iskrev-2010/index.html",
+      "/research/articles/iskrev-2008/index.html",
+      "/research/working-papers/iskrev-whittle/index.html",
+      "/research/working-papers/iskrev-SIGA/index.html",
+      "/research/dormant-working-papers/iskrev-2018/index.html",
+      "/research/dormant-working-papers/iskrev-2010/index.html",
+      "/research/dormant-working-papers/iskrev-2014/index.html"
+    ]
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitæ",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Econometrics II \n                \n            \n            \n                ECON 108 | \n                University of Porto\n                \n            \n            Time Series Analysis\n\n            \n                \n                \n                 Spring 2022\n                \n                \n            \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html#section",
+    "href": "teaching/index.html#section",
+    "title": "Teaching",
+    "section": "",
+    "text": "Econometrics II \n                \n            \n            \n                ECON 108 | \n                University of Porto\n                \n            \n            Time Series Analysis\n\n            \n                \n                \n                 Spring 2022\n                \n                \n            \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/working-papers/iskrev-whittle/index.html",
+    "href": "research/working-papers/iskrev-whittle/index.html",
+    "title": "On the band-spectral estimation of business cycle models",
+    "section": "",
+    "text": "Paper (preprint)"
+  },
+  {
+    "objectID": "research/working-papers/iskrev-whittle/index.html#important-links",
+    "href": "research/working-papers/iskrev-whittle/index.html#important-links",
+    "title": "On the band-spectral estimation of business cycle models",
+    "section": "",
+    "text": "Paper (preprint)"
+  },
+  {
+    "objectID": "research/working-papers/iskrev-whittle/index.html#abstract",
+    "href": "research/working-papers/iskrev-whittle/index.html#abstract",
+    "title": "On the band-spectral estimation of business cycle models",
+    "section": "Abstract",
+    "text": "Abstract\nI evaluate the properties and performance of band-spectral estimators applied to business cycle models. Band-spectral methods are widely used to study frequency-dependent relationships between time series. In business cycle research, this approach permits the estimation of structural models on the basis only of the frequencies they are best suited to represent, such as the business cycle frequencies. In particular, the frequency domain approximation of the likelihood function (the Whittle likelihood) can be used to estimate the parameters of models on the basis of a targeted band of frequencies. Using the medium-scale model of Angeletos et al. (2018) as a data-generating process, I conduct a Monte Carlo study to evaluate the finite-sample properties of the band-spectral maximum likelihood estimator (MLE) and to compare them to those of the full spectrum and the exact time-domain MLE. The results show that using the band-spectral estimator leads to considerable biases and efficiency losses for most estimated parameters. In fact, the performance of both Whittle likelihood-based estimators is found to be seriously deficient in terms of bias and accuracy, in contrast to that of the time domain estimator, which successfully recovers all model parameters. I show how these findings can be explained with the theoretical properties of the underlying model, and describe simple-to-use tools and diagnostics that can be used to detect potential problems in band-spectral estimation for a wide class of macroeconomic models."
+  },
+  {
+    "objectID": "research/dormant-working-papers/iskrev-2018/index.html",
+    "href": "research/dormant-working-papers/iskrev-2018/index.html",
+    "title": "Are asset price data informative about news shocks? A DSGE perspective",
+    "section": "",
+    "text": "Standard economic intuition suggests that asset prices are more sensitive to news than other economic aggregates. This has led many researchers to conclude that asset price data would be very useful for the estimation of business cycle models containing news shocks. This paper shows how to formally evaluate the information content of observed variables with respect to unobserved shocks in structural macroeconomic models. The proposed methodology is applied to two different real business cycle models with news shocks. The contribution of asset prices is found to be relatively small. The methodology is general and can be used to measure the informational importance of observables with respect to latent variables in DSGE models. Thus, it provides a framework for systematic treatment of such issues, which are usually discussed in an informal manner in the literature."
+  },
+  {
+    "objectID": "research/dormant-working-papers/iskrev-2018/index.html#abstract",
+    "href": "research/dormant-working-papers/iskrev-2018/index.html#abstract",
+    "title": "Are asset price data informative about news shocks? A DSGE perspective",
+    "section": "",
+    "text": "Standard economic intuition suggests that asset prices are more sensitive to news than other economic aggregates. This has led many researchers to conclude that asset price data would be very useful for the estimation of business cycle models containing news shocks. This paper shows how to formally evaluate the information content of observed variables with respect to unobserved shocks in structural macroeconomic models. The proposed methodology is applied to two different real business cycle models with news shocks. The contribution of asset prices is found to be relatively small. The methodology is general and can be used to measure the informational importance of observables with respect to latent variables in DSGE models. Thus, it provides a framework for systematic treatment of such issues, which are usually discussed in an informal manner in the literature."
+  },
+  {
+    "objectID": "research/articles/iskrev-2019b/index.html",
+    "href": "research/articles/iskrev-2019b/index.html",
+    "title": "Inflation Dynamics and Adaptive Expectations in an Estimated DSGE Model",
+    "section": "",
+    "text": "We estimate a “hybrid expectations” version of the Smets and Wouters (2007) model in which a subset of agents employ simple moving-average forecast rules that place a significant weight on the most recent data observation. We show that the overall fit is improved relative to an otherwise similar version in which all agents have fully rational expectations. In-sample and out-of-sample analyses show the superiority of the hybrid expectations model in generating an expected inflation series that more closely tracks expected inflation from the Survey of Professional Forecasters."
+  },
+  {
+    "objectID": "research/articles/iskrev-2019b/index.html#abstract",
+    "href": "research/articles/iskrev-2019b/index.html#abstract",
+    "title": "Inflation Dynamics and Adaptive Expectations in an Estimated DSGE Model",
+    "section": "",
+    "text": "We estimate a “hybrid expectations” version of the Smets and Wouters (2007) model in which a subset of agents employ simple moving-average forecast rules that place a significant weight on the most recent data observation. We show that the overall fit is improved relative to an otherwise similar version in which all agents have fully rational expectations. In-sample and out-of-sample analyses show the superiority of the hybrid expectations model in generating an expected inflation series that more closely tracks expected inflation from the Survey of Professional Forecasters."
+  },
+  {
+    "objectID": "research/articles/iskrev-2019b/index.html#citation",
+    "href": "research/articles/iskrev-2019b/index.html#citation",
+    "title": "Inflation Dynamics and Adaptive Expectations in an Estimated DSGE Model",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{Iskrev2019258,\ntitle = {Inflation dynamics and adaptive expectations in an estimated DSGE model},\njournal = {Journal of Macroeconomics},\nvolume = {59},\npages = {258-277},\nyear = {2019},\nissn = {0164-0704},\ndoi = {https://doi.org/10.1016/j.jmacro.2018.12.002},\nurl = {https://www.sciencedirect.com/science/article/pii/S0164070418302428},\nauthor = {Paolo Gelain and Nikolay Iskrev and Kevin {J. Lansing} and Caterina Mendicino},\nkeywords = {Inflation expectations, Bayesian estimation, Local identification, Adaptive expectations, Survey of Professional Forecasters' expectations},\nabstract = {We estimate a “hybrid expectations” version of the Smets and Wouters (2007) model in which a subset of agents employ simple moving-average forecast rules that place a significant weight on the most recent data observation. We show that the overall fit is improved relative to an otherwise similar version in which all agents have fully rational expectations. In-sample and out-of-sample analyses show the superiority of the hybrid expectations model in generating an expected inflation series that more closely tracks expected inflation from the Survey of Professional Forecasters.}\n}"
+  },
+  {
+    "objectID": "research/articles/iskrev-2019/index.html",
+    "href": "research/articles/iskrev-2019/index.html",
+    "title": "On the sources of information about latent variables in DSGE models",
+    "section": "",
+    "text": "Paper (preprint)\nAppendix (preprint)\nSupplemental material"
+  },
+  {
+    "objectID": "research/articles/iskrev-2019/index.html#important-links",
+    "href": "research/articles/iskrev-2019/index.html#important-links",
+    "title": "On the sources of information about latent variables in DSGE models",
+    "section": "",
+    "text": "Paper (preprint)\nAppendix (preprint)\nSupplemental material"
+  },
+  {
+    "objectID": "research/articles/iskrev-2019/index.html#abstract",
+    "href": "research/articles/iskrev-2019/index.html#abstract",
+    "title": "On the sources of information about latent variables in DSGE models",
+    "section": "Abstract",
+    "text": "Abstract\nLatent variables are ubiquitous in macroeconomics and structural models are often used to characterize and estimate them from empirical data. This paper addresses the problem of identifying the key sources of information with respect to latent variables in dynamic stochastic general equilibrium models. To that end, I show how to evaluate the information content of a set of observable variables with respect to a given latent variable. The methodology enables researchers to measure and compare the informational contribution of different observables and identify the most informative ones. Thus, it provides a framework for a rigorous treatment of such issues, which are often discussed in an informal manner in the literature. The methodology is illustrated with an assessment of the informational importance of asset prices with respect to news shocks in the business cycle model developed by Schmitt-Grohé and Uribe (2012)."
+  },
+  {
+    "objectID": "research/articles/iskrev-2019/index.html#figures",
+    "href": "research/articles/iskrev-2019/index.html#figures",
+    "title": "On the sources of information about latent variables in DSGE models",
+    "section": "Figures",
+    "text": "Figures\nFigure 1: Conditional information gains about the shocks in the SGU model\n\n\n\nConditional information gains about the shocks in the SGU model\n\n\nFigure 2: Efficiency gains about the shock parameters in the SGU model\n\n\n\nFigure 2: Efficiency gains about the shock parameters in the SGU model"
+  },
+  {
+    "objectID": "research/articles/iskrev-2019/index.html#citation",
+    "href": "research/articles/iskrev-2019/index.html#citation",
+    "title": "On the sources of information about latent variables in DSGE models",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{ISKREV2019318,\ntitle = {On the sources of information about latent variables in DSGE models},\njournal = {European Economic Review},\nvolume = {119},\npages = {318-332},\nyear = {2019},\nissn = {0014-2921},\ndoi = {https://doi.org/10.1016/j.euroecorev.2019.07.012},\nurl = {https://www.sciencedirect.com/science/article/pii/S001429211930131X},\nauthor = {Nikolay Iskrev},\nkeywords = {DSGE models, Information content, Identification, News Shocks, Asset prices},\nabstract = {Latent variables are ubiquitous in macroeconomics and structural models are often used to characterize and estimate them from empirical data. This paper addresses the problem of identifying the key sources of information with respect to latent variables in dynamic stochastic general equilibrium models. To that end, I show how to evaluate the information content of a set of observable variables with respect to a given latent variable. The methodology enables researchers to measure and compare the informational contribution of different observables and identify the most informative ones. Thus, it provides a framework for a rigorous treatment of such issues, which are often discussed in an informal manner in the literature. The methodology is illustrated with an assessment of the informational importance of asset prices with respect to news shocks in the business cycle model developed by Schmitt-Grohé and Uribe (2012).}\n}"
+  },
+  {
+    "objectID": "research/articles/iskrev-2010/index.html#important-links",
+    "href": "research/articles/iskrev-2010/index.html#important-links",
+    "title": "Local identification in DSGE models",
+    "section": "Important links",
+    "text": "Important links\n\nPaper\nAppendix\nSupplemental material"
+  },
+  {
+    "objectID": "research/articles/iskrev-2010/index.html#abstract",
+    "href": "research/articles/iskrev-2010/index.html#abstract",
+    "title": "Local identification in DSGE models",
+    "section": "Abstract",
+    "text": "Abstract\nThe issue of identification arises whenever structural models are estimated. Lack of identification means that the empirical implications of some model parameters are either undetectable or indistinguishable from the implications of other parameters. Therefore, identifiability must be verified prior to estimation. This paper provides a simple method for conducting local identification analysis in linearized DSGE models, estimated in both full and limited information settings. In addition to establishing which parameters are locally identified and which are not, researchers can determine whether the identification failures are due to data limitations, such as lack of observations for some variables, or whether they are intrinsic to the structure of the model. The methodology is illustrated using a medium-scale DSGE model."
+  },
+  {
+    "objectID": "research/articles/iskrev-2010/index.html#citation",
+    "href": "research/articles/iskrev-2010/index.html#citation",
+    "title": "Local identification in DSGE models",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{ISKREV2010189,\ntitle = {Local identification in DSGE models},\njournal = {Journal of Monetary Economics},\nvolume = {57},\nnumber = {2},\npages = {189-202},\nyear = {2010},\nissn = {0304-3932},\ndoi = {https://doi.org/10.1016/j.jmoneco.2009.12.007},\nurl = {https://www.sciencedirect.com/science/article/pii/S0304393209001883},\nauthor = {Nikolay Iskrev},\nkeywords = {DSGE models, Identification},\nabstract = {The issue of identification arises whenever structural models are estimated. Lack of identification means that the empirical implications of some model parameters are either undetectable or indistinguishable from the implications of other parameters. Therefore, identifiability must be verified prior to estimation. This paper provides a simple method for conducting local identification analysis in linearized DSGE models, estimated in both full and limited information settings. In addition to establishing which parameters are locally identified and which are not, researchers can determine whether the identification failures are due to data limitations, such as lack of observations for some variables, or whether they are intrinsic to the structure of the model. The methodology is illustrated using a medium-scale DSGE model.}\n}"
+  },
+  {
+    "objectID": "research/articles/iskrev-2008/index.html",
+    "href": "research/articles/iskrev-2008/index.html",
+    "title": "Evaluating the information matrix in linearized DSGE models",
+    "section": "",
+    "text": "In this note we show how the stochastic general equilibrium (DSGE) models can be evaluated analytically. The result is useful for the estimation and identification analysis of such models."
+  },
+  {
+    "objectID": "research/articles/iskrev-2008/index.html#abstract",
+    "href": "research/articles/iskrev-2008/index.html#abstract",
+    "title": "Evaluating the information matrix in linearized DSGE models",
+    "section": "",
+    "text": "In this note we show how the stochastic general equilibrium (DSGE) models can be evaluated analytically. The result is useful for the estimation and identification analysis of such models."
+  },
+  {
+    "objectID": "research/articles/iskrev-2008/index.html#citation",
+    "href": "research/articles/iskrev-2008/index.html#citation",
+    "title": "Evaluating the information matrix in linearized DSGE models",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{ISKREV2008607,\ntitle = {Evaluating the information matrix in linearized DSGE models},\njournal = {Economics Letters},\nvolume = {99},\nnumber = {3},\npages = {607-610},\nyear = {2008},\nissn = {0165-1765},\ndoi = {https://doi.org/10.1016/j.econlet.2007.10.016},\nurl = {https://www.sciencedirect.com/science/article/pii/S0165176507003898},\nauthor = {Nikolay Iskrev},\nkeywords = {Information matrix, DSGE models, Hessian, C32, C51, C52, E32},\nabstract = {In this note we show how the stochastic general equilibrium (DSGE) models can be evaluated analytically. The result is useful for the estimation and identification analysis of such models.}\n}"
+  },
+  {
+    "objectID": "research/articles/iskrev-2017/index.html",
+    "href": "research/articles/iskrev-2017/index.html",
+    "title": "Monetary policy shocks: We got news!",
+    "section": "",
+    "text": "We assess the role of monetary policy news shocks in the context of a medium scale DSGE model estimated on US data. We estimate several versions of the model and find decisive evidence in favour of the inclusion of monetary policy news shocks over a two-quarter horizon. According to our results, monetary policy news shocks account for a non-negligible fraction of the variance of real variables, especially at shorter forecast horizons. Further, we document that the importance of monetary policy news shocks goes beyond what was observed in recent years. The historical importance of monetary policy news shocks dates back to the 1999–2006 period when the official FOMC statements provided information about both the current policy setting and the expected future policy path. We also show that adding monetary policy news shocks to the model does not lead to identification problems."
+  },
+  {
+    "objectID": "research/articles/iskrev-2017/index.html#abstract",
+    "href": "research/articles/iskrev-2017/index.html#abstract",
+    "title": "Monetary policy shocks: We got news!",
+    "section": "",
+    "text": "We assess the role of monetary policy news shocks in the context of a medium scale DSGE model estimated on US data. We estimate several versions of the model and find decisive evidence in favour of the inclusion of monetary policy news shocks over a two-quarter horizon. According to our results, monetary policy news shocks account for a non-negligible fraction of the variance of real variables, especially at shorter forecast horizons. Further, we document that the importance of monetary policy news shocks goes beyond what was observed in recent years. The historical importance of monetary policy news shocks dates back to the 1999–2006 period when the official FOMC statements provided information about both the current policy setting and the expected future policy path. We also show that adding monetary policy news shocks to the model does not lead to identification problems."
+  },
+  {
+    "objectID": "research/articles/iskrev-2017/index.html#citation",
+    "href": "research/articles/iskrev-2017/index.html#citation",
+    "title": "Monetary policy shocks: We got news!",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{ISKREV2017108,\ntitle = {Monetary policy shocks: We got news!},\njournal = {Journal of Economic Dynamics and Control},\nvolume = {74},\npages = {108-128},\nyear = {2017},\nissn = {0165-1889},\ndoi = {https://doi.org/10.1016/j.jedc.2016.10.010},\nurl = {https://www.sciencedirect.com/science/article/pii/S0165188916301749},\nauthor = {Sandra Gomes and Nikolay Iskrev and Caterina Mendicino},\nkeywords = {DSGE models, Bayesian estimation, News shocks, Local identification, Business cycles, Forward guidance},\nabstract = {We assess the role of monetary policy news shocks in the context of a medium scale DSGE model estimated on US data. We estimate several versions of the model and find decisive evidence in favour of the inclusion of monetary policy news shocks over a two-quarter horizon. According to our results, monetary policy news shocks account for a non-negligible fraction of the variance of real variables, especially at shorter forecast horizons. Further, we document that the importance of monetary policy news shocks goes beyond what was observed in recent years. The historical importance of monetary policy news shocks dates back to the 1999–2006 period when the official FOMC statements provided information about both the current policy setting and the expected future policy path. We also show that adding monetary policy news shocks to the model does not lead to identification problems.}\n}"
+  },
+  {
+    "objectID": "research/articles/iskrev-2019a/index.html",
+    "href": "research/articles/iskrev-2019a/index.html",
+    "title": "What to expect when you’re calibrating: measuring the effect of calibration on the estimation of macroeconomic models",
+    "section": "",
+    "text": "Paper (preprint)"
+  },
+  {
+    "objectID": "research/articles/iskrev-2019a/index.html#important-links",
+    "href": "research/articles/iskrev-2019a/index.html#important-links",
+    "title": "What to expect when you’re calibrating: measuring the effect of calibration on the estimation of macroeconomic models",
+    "section": "",
+    "text": "Paper (preprint)"
+  },
+  {
+    "objectID": "research/articles/iskrev-2019a/index.html#abstract",
+    "href": "research/articles/iskrev-2019a/index.html#abstract",
+    "title": "What to expect when you’re calibrating: measuring the effect of calibration on the estimation of macroeconomic models",
+    "section": "Abstract",
+    "text": "Abstract\nI propose two measures of the impact of calibration on the estimation of macroeconomic models. The first quantifies the amount of information introduced with respect to each estimated parameter as a result of fixing the value of one or more calibrated parameters. The second is a measure of the sensitivity of parameter estimates to perturbations in the calibration values. The purpose of the measures is to show researchers how much and in what way calibration affects their estimation results – by shifting the location and reducing the spread of the marginal posterior distributions of the estimated parameters. Such analysis is often appropriate since macroeconomists do not always agree on whether and how to calibrate structural parameters in macroeconomic models. The methodology is illustrated using the models estimated in Smets and Wouters (2007) and Schmitt-Grohé and Uribe (2012)."
+  },
+  {
+    "objectID": "research/articles/iskrev-2019a/index.html#citation",
+    "href": "research/articles/iskrev-2019a/index.html#citation",
+    "title": "What to expect when you’re calibrating: measuring the effect of calibration on the estimation of macroeconomic models",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{ISKREV201954,\ntitle = {What to expect when you're calibrating: Measuring the effect of calibration on the estimation of macroeconomic models},\njournal = {Journal of Economic Dynamics and Control},\nvolume = {99},\npages = {54-81},\nyear = {2019},\nissn = {0165-1889},\ndoi = {https://doi.org/10.1016/j.jedc.2018.12.002},\nurl = {https://www.sciencedirect.com/science/article/pii/S0165188918303907},\nauthor = {Nikolay Iskrev},\nkeywords = {DSGE models, Information content, Calibration, Estimation, Identification},\nabstract = {I propose two measures of the impact of calibration on the estimation of macroeconomic models. The first quantifies the amount of information introduced with respect to each estimated parameter as a result of fixing the value of one or more calibrated parameters. The second is a measure of the sensitivity of parameter estimates to perturbations in the calibration values. The purpose of the measures is to show researchers how much and in what way calibration affects their estimation results – by shifting the location and reducing the spread of the marginal posterior distributions of the estimated parameters. Such analysis is often appropriate since macroeconomists do not always agree on whether and how to calibrate structural parameters in macroeconomic models. The methodology is illustrated using the models estimated in Smets and Wouters (2007) and Schmitt-Grohé and Uribe (2012).}\n}"
+  },
+  {
+    "objectID": "research/articles/iskrev-2021/index.html#important-links",
+    "href": "research/articles/iskrev-2021/index.html#important-links",
+    "title": "On the Sources of Information in the Moment Structure of Dynamic Macroeconomic Models",
+    "section": "Important links",
+    "text": "Important links\n\nPaper (preprint)\nAppendix (preprint)\nSupplemental material"
+  },
+  {
+    "objectID": "research/articles/iskrev-2021/index.html#abstract",
+    "href": "research/articles/iskrev-2021/index.html#abstract",
+    "title": "On the Sources of Information in the Moment Structure of Dynamic Macroeconomic Models",
+    "section": "Abstract",
+    "text": "Abstract\nWhat features of the data are the key sources of information about the parameters in structural macroeconomic models? As such models grow in size and complexity, the answer to this question has become increasingly difficult. This article shows how to identify the main sources of parameter information across different parts of the moment structure of macroeconomic models. In particular, we propose a measure of the relative contribution of information by a given subset of moments with respect to any parameter of interest. The measure is trivial to compute even for large-scale models with many free parameters and observed variables. We illustrate our method with an application to a news-driven business cycle model developed by Schmitt-Grohé and Uribe."
+  },
+  {
+    "objectID": "research/articles/iskrev-2021/index.html#citation",
+    "href": "research/articles/iskrev-2021/index.html#citation",
+    "title": "On the Sources of Information in the Moment Structure of Dynamic Macroeconomic Models",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{Iskrev2022,\nauthor = {Nikolay Iskrev},\ntitle = {On the Sources of Information in the Moment Structure of Dynamic Macroeconomic Models},\njournal = {Journal of Business \\& Economic Statistics},\nvolume = {40},\nnumber = {1},\npages = {272--284},\nyear = {2022},\npublisher = {Taylor \\& Francis},\ndoi = {10.1080/07350015.2020.1803079},\nURL = {https://doi.org/10.1080/07350015.2020.1803079},\neprint = {https://doi.org/10.1080/07350015.2020.1803079}\n}"
+  },
+  {
+    "objectID": "research/dormant-working-papers/iskrev-2014/index.html",
+    "href": "research/dormant-working-papers/iskrev-2014/index.html",
+    "title": "Choosing the variables to estimate singular DSGE models: Commenth",
+    "section": "",
+    "text": "In a recent article Canova et al. (2014) study the optimal choice of variables to use in the estimation of a simplified version of the Smets and Wouters (2007) model. In this comment we examine their conclusions by applying a different methodology to the same model. Our results call into question most of Canova et al. (2014) conclusions."
+  },
+  {
+    "objectID": "research/dormant-working-papers/iskrev-2014/index.html#abstract",
+    "href": "research/dormant-working-papers/iskrev-2014/index.html#abstract",
+    "title": "Choosing the variables to estimate singular DSGE models: Commenth",
+    "section": "",
+    "text": "In a recent article Canova et al. (2014) study the optimal choice of variables to use in the estimation of a simplified version of the Smets and Wouters (2007) model. In this comment we examine their conclusions by applying a different methodology to the same model. Our results call into question most of Canova et al. (2014) conclusions."
+  },
+  {
+    "objectID": "research/working-papers/iskrev-SIGA/index.html",
+    "href": "research/working-papers/iskrev-SIGA/index.html",
+    "title": "Spectral decomposition of the information about latent variables in dynamic macroeconomic models",
+    "section": "",
+    "text": "Paper"
+  },
+  {
+    "objectID": "research/working-papers/iskrev-SIGA/index.html#important-links",
+    "href": "research/working-papers/iskrev-SIGA/index.html#important-links",
+    "title": "Spectral decomposition of the information about latent variables in dynamic macroeconomic models",
+    "section": "",
+    "text": "Paper"
+  },
+  {
+    "objectID": "research/working-papers/iskrev-SIGA/index.html#abstract",
+    "href": "research/working-papers/iskrev-SIGA/index.html#abstract",
+    "title": "Spectral decomposition of the information about latent variables in dynamic macroeconomic models",
+    "section": "Abstract",
+    "text": "Abstract\nI propose a formal method for decomposing the frequency domain information about latent variables in dynamic models. A model describes the joint probability distribution of a set of observed and latent variables. The amount of information transferred from the former to the latter is measured by the reduction of uncertainty in the posterior compared to the prior distribution of any given latent variable. Casting the analysis in the frequency domain allows decomposing the total amount of information in terms of frequency-specific contributions as well as in terms of information contributed by individual observed variables. Using the proposed spectral decomposition can help researchers identify where information about shocks and other latent variables in structural macroeconomic models come from, thereby making the estimation of such models more transparent. I illustrate the usefulness of the methodology with applications to three recent articles."
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "ON THE BAND-SPECTRAL ESTIMATION OF BUSINESS CYCLE MODELS\n            The BSE Summer Forum Workshop on Macroeconomics and Policy Evaluation  | Barcelona, Spain   IAAE 2024 International Association for Applied Econometrics | Thessaloniki, Greece  The 2024 RCEA International Conference in Economics, Econometrics, and Finance | London, UK  The 27th Conference “Theories and Methods in Macroeconomics” | Amsterdam, Netherlands  New trends and developments in econometrics | Ponta Delgada, Portugal | \n\n            \n            \n                \n                \n                    \n                    \n                    \n                         slides\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html#section",
+    "href": "talks/index.html#section",
+    "title": "Talks",
+    "section": "",
+    "text": "ON THE BAND-SPECTRAL ESTIMATION OF BUSINESS CYCLE MODELS\n            The BSE Summer Forum Workshop on Macroeconomics and Policy Evaluation  | Barcelona, Spain   IAAE 2024 International Association for Applied Econometrics | Thessaloniki, Greece  The 2024 RCEA International Conference in Economics, Econometrics, and Finance | London, UK  The 27th Conference “Theories and Methods in Macroeconomics” | Amsterdam, Netherlands  New trends and developments in econometrics | Ponta Delgada, Portugal | \n\n            \n            \n                \n                \n                    \n                    \n                    \n                         slides\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html#section-1",
+    "href": "talks/index.html#section-1",
+    "title": "Talks",
+    "section": "2023",
+    "text": "2023\n\n\n\n    \n    \n                  \n            \n        \n        \n            SPECTRAL DECOMPOSITION OF THE INFORMATION ABOUT LATENT VARIABLES IN DYNAMIC MACROECONOMIC MODELS\n            European Meeting of the Econometric Society  | Barcelona, Spain   IAAE 2023 International Association for Applied Econometrics | Oslo, Norway  ERMAS 2023 | Bucharest, Romania | \n\n            \n            \n                \n                \n                    \n                    \n                    \n                         slides\n                    \n                \n                \n            \n            \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html#working-papers",
+    "href": "research/index.html#working-papers",
+    "title": "Research",
+    "section": "Working papers",
+    "text": "Working papers\n\n\n\n    \n        \n            \n                Nikolay Iskrev, “On the band-spectral estimation of business cycle models,”\n            \n\n            \n            \n                \n                    \n                            DSGE\n                        \n                    \n                    \n                            frequency domain\n                        \n                    \n                    \n                            Whittle likelihood\n                        \n                    \n                    \n                            information content\n                        \n                    \n                    \n                            Monte Carlo\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Working Paper\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             companion site\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Nikolay Iskrev, “Spectral decomposition of the information about latent variables in dynamic macroeconomic models,”\n            \n\n            \n            \n                \n                    \n                            DSGE\n                        \n                    \n                    \n                            latent variables\n                        \n                    \n                    \n                            frequency domain\n                        \n                    \n                    \n                            information content\n                        \n                    \n                    \n                            transparency\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Working Paper\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             companion site\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html#journal-articles",
+    "href": "research/index.html#journal-articles",
+    "title": "Research",
+    "section": "Journal articles",
+    "text": "Journal articles\n\n\n\n    \n        \n            \n                Nikolay Iskrev, “On the Sources of Information in the Moment Structure of Dynamic Macroeconomic Models,” Journal of Business & Economic Statistics 40, no.1 (2022): 272–284, doi: 10.1080/07350015.2020.1803079\n            \n\n            \n            \n                \n                    \n                            DSGE\n                        \n                    \n                    \n                            moment structure\n                        \n                    \n                    \n                            information content\n                        \n                    \n                    \n                            transparency\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Working Paper\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Code\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Nikolay Iskrev, “On the sources of information about latent variables in DSGE models,” European Economic Reviews 119 (2019): 318–332, doi: 10.1016/j.euroecorev.2019.07.012\n            \n\n            \n            \n                \n                    \n                            DSGE\n                        \n                    \n                    \n                            latent variables\n                        \n                    \n                    \n                            information content\n                        \n                    \n                    \n                            transparency\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Working Paper\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Code\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Paolo Gelain, Nikolay Iskrev, Kevin J. Lansing, Caterina Mendicino, “Inflation Dynamics and Adaptive Expectations in an Estimated DSGE Model,” Journal of Macroeconomics 59 (2019): 258-277, doi: 10.1016/j.jmacro.2018.12.002\n            \n\n            \n            \n                \n                    \n                            Inflation expectations\n                        \n                    \n                    \n                            Adaptive expectations\n                        \n                    \n                    \n                            DSGE\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Nikolay Iskrev, “What to expect when you're calibrating: measuring the effect of calibration on the estimation of macroeconomic models,” Journal of Economic Dynamic and Control 99 (2019): 54-81, doi: 10.1016/j.jedc.2018.12.002\n            \n\n            \n            \n                \n                    \n                            DSGE\n                        \n                    \n                    \n                            calibration\n                        \n                    \n                    \n                            information content\n                        \n                    \n                    \n                            transparency\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Working Paper\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Sandra Gomes, Nikolay Iskrev, Caterina Mendicino, “Monetary policy shocks: We got news!,” Journal of Economic Dynamics and Control 59 (2017): 108-128, doi: https:10.1016/j.jedc.2016.10.010\n            \n\n            \n            \n                \n                    \n                            News shocks\n                        \n                    \n                    \n                            Business cycles\n                        \n                    \n                    \n                            Forward guidance\n                        \n                    \n                    \n                            DSGE\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Nikolay Iskrev, “Local identification in DSGE models,” Journal of Monetary Economics 57, no.2 (2010): 189-202, doi: 10.1016/j.jmoneco.2009.12.007\n            \n\n            \n            \n                \n                    \n                            DSGE\n                        \n                    \n                    \n                            local identification\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Working Paper\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Code\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Nikolay Iskrev, “Evaluating the information matrix in linearized DSGE models,” Economics Letters 99, issue 3 (2008): 607-610, doi: 10.1016/j.econlet.2007.10.016\n            \n\n            \n            \n                \n                    \n                            DSGE\n                        \n                    \n                    \n                            Fisher information matrix\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html#dormant-working-papers",
+    "href": "research/index.html#dormant-working-papers",
+    "title": "Research",
+    "section": "Dormant working papers",
+    "text": "Dormant working papers\n\n\n\n    \n        \n            \n                \"Are asset price data informative about news shocks? A DSGE perspective\"\n            \n\n            \n            \n                \n                    \n                            DSGE\n                        \n                    \n                    \n                            asset prices\n                        \n                    \n                    \n                            latent variables\n                        \n                    \n                    \n                            information content\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Working paper\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                \"Evaluating the strength of identification in DSGE models. An a priori approach\"\n            \n\n            \n            \n                \n                    \n                            DSGE\n                        \n                    \n                    \n                            identification strength\n                        \n                    \n                    \n                            Fisher information matrix\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Working paper\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             PDF\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                \"Choosing the variables to estimate singular DSGE models: Comment\"\n            \n\n            \n            \n                \n                    \n                            DSGE\n                        \n                    \n                    \n                            information content\n                        \n                    \n                    \n                            Monte Carlo\n                        \n                    \n                    \n                            variable selection\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Working paper\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             PDF\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nikolay Iskrev",
+    "section": "",
+    "text": "I’m a research economist in the Departamento de Estudos Económicos at the Banco de Potugal. I received a PhD in economics from the University of Michigan in 2008.\n\n\n\ncontact\n\n    \n        \n            Nikolay Iskrev\n            Departamento de Estudos Económicos\n            Banco de Portugal\n            Rua Francisco Ribeiro, 2\n            Lisboa 1150-165\n            Portugal\n\n            \n            Email: nikolay.iskrev@bportugal.pt"
+  }
+]
