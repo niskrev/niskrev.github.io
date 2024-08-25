@@ -1,3 +1,6 @@
-_site
-assets/bigpublpics/Orig/
-Gemfile.lock
+/*
+/*/
+!/.gitignore
+!/docs/
+
+/.quarto/

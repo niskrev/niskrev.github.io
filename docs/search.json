@@ -35,8 +35,8 @@
     "text": "Paper (preprint)"
   },
   {
-    "objectID": "research/working-papers/iskrev-whittle/index.html#important-links",
-    "href": "research/working-papers/iskrev-whittle/index.html#important-links",
+    "objectID": "research/working-papers/iskrev-whittle/index.html#links",
+    "href": "research/working-papers/iskrev-whittle/index.html#links",
     "title": "On the band-spectral estimation of business cycle models",
     "section": "",
     "text": "Paper (preprint)"
@@ -91,8 +91,8 @@
     "text": "Paper (preprint)\nAppendix (preprint)\nSupplemental material"
   },
   {
-    "objectID": "research/articles/iskrev-2019/index.html#important-links",
-    "href": "research/articles/iskrev-2019/index.html#important-links",
+    "objectID": "research/articles/iskrev-2019/index.html#links",
+    "href": "research/articles/iskrev-2019/index.html#links",
     "title": "On the sources of information about latent variables in DSGE models",
     "section": "",
     "text": "Paper (preprint)\nAppendix (preprint)\nSupplemental material"
@@ -119,11 +119,11 @@
     "text": "Citation\n\n Add to Zotero \n\n@article{ISKREV2019318,\ntitle = {On the sources of information about latent variables in DSGE models},\njournal = {European Economic Review},\nvolume = {119},\npages = {318-332},\nyear = {2019},\nissn = {0014-2921},\ndoi = {https://doi.org/10.1016/j.euroecorev.2019.07.012},\nurl = {https://www.sciencedirect.com/science/article/pii/S001429211930131X},\nauthor = {Nikolay Iskrev},\nkeywords = {DSGE models, Information content, Identification, News Shocks, Asset prices},\nabstract = {Latent variables are ubiquitous in macroeconomics and structural models are often used to characterize and estimate them from empirical data. This paper addresses the problem of identifying the key sources of information with respect to latent variables in dynamic stochastic general equilibrium models. To that end, I show how to evaluate the information content of a set of observable variables with respect to a given latent variable. The methodology enables researchers to measure and compare the informational contribution of different observables and identify the most informative ones. Thus, it provides a framework for a rigorous treatment of such issues, which are often discussed in an informal manner in the literature. The methodology is illustrated with an assessment of the informational importance of asset prices with respect to news shocks in the business cycle model developed by Schmitt-Grohé and Uribe (2012).}\n}"
   },
   {
-    "objectID": "research/articles/iskrev-2010/index.html#important-links",
-    "href": "research/articles/iskrev-2010/index.html#important-links",
+    "objectID": "research/articles/iskrev-2010/index.html#links",
+    "href": "research/articles/iskrev-2010/index.html#links",
     "title": "Local identification in DSGE models",
-    "section": "Important links",
-    "text": "Important links\n\nPaper\nAppendix\nSupplemental material"
+    "section": "Links",
+    "text": "Links\n\nPaper\nAppendix\nSupplemental material"
   },
   {
     "objectID": "research/articles/iskrev-2010/index.html#abstract",
@@ -189,8 +189,8 @@
     "text": "Paper (preprint)"
   },
   {
-    "objectID": "research/articles/iskrev-2019a/index.html#important-links",
-    "href": "research/articles/iskrev-2019a/index.html#important-links",
+    "objectID": "research/articles/iskrev-2019a/index.html#links",
+    "href": "research/articles/iskrev-2019a/index.html#links",
     "title": "What to expect when you’re calibrating: measuring the effect of calibration on the estimation of macroeconomic models",
     "section": "",
     "text": "Paper (preprint)"
@@ -210,11 +210,11 @@
     "text": "Citation\n\n Add to Zotero \n\n@article{ISKREV201954,\ntitle = {What to expect when you're calibrating: Measuring the effect of calibration on the estimation of macroeconomic models},\njournal = {Journal of Economic Dynamics and Control},\nvolume = {99},\npages = {54-81},\nyear = {2019},\nissn = {0165-1889},\ndoi = {https://doi.org/10.1016/j.jedc.2018.12.002},\nurl = {https://www.sciencedirect.com/science/article/pii/S0165188918303907},\nauthor = {Nikolay Iskrev},\nkeywords = {DSGE models, Information content, Calibration, Estimation, Identification},\nabstract = {I propose two measures of the impact of calibration on the estimation of macroeconomic models. The first quantifies the amount of information introduced with respect to each estimated parameter as a result of fixing the value of one or more calibrated parameters. The second is a measure of the sensitivity of parameter estimates to perturbations in the calibration values. The purpose of the measures is to show researchers how much and in what way calibration affects their estimation results – by shifting the location and reducing the spread of the marginal posterior distributions of the estimated parameters. Such analysis is often appropriate since macroeconomists do not always agree on whether and how to calibrate structural parameters in macroeconomic models. The methodology is illustrated using the models estimated in Smets and Wouters (2007) and Schmitt-Grohé and Uribe (2012).}\n}"
   },
   {
-    "objectID": "research/articles/iskrev-2021/index.html#important-links",
-    "href": "research/articles/iskrev-2021/index.html#important-links",
+    "objectID": "research/articles/iskrev-2021/index.html#links",
+    "href": "research/articles/iskrev-2021/index.html#links",
     "title": "On the Sources of Information in the Moment Structure of Dynamic Macroeconomic Models",
-    "section": "Important links",
-    "text": "Important links\n\nPaper (preprint)\nAppendix (preprint)\nSupplemental material"
+    "section": "Links",
+    "text": "Links\n\nPaper (preprint)\nAppendix (preprint)\nSupplemental material"
   },
   {
     "objectID": "research/articles/iskrev-2021/index.html#abstract",
@@ -252,8 +252,8 @@
     "text": "Paper"
   },
   {
-    "objectID": "research/working-papers/iskrev-SIGA/index.html#important-links",
-    "href": "research/working-papers/iskrev-SIGA/index.html#important-links",
+    "objectID": "research/working-papers/iskrev-SIGA/index.html#links",
+    "href": "research/working-papers/iskrev-SIGA/index.html#links",
     "title": "Spectral decomposition of the information about latent variables in dynamic macroeconomic models",
     "section": "",
     "text": "Paper"
